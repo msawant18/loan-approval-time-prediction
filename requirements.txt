@@ -1,1 +1,10 @@
-
+```text
+pandas
+numpy
+lightgbm
+mlflow
+great-expectations
+apache-airflow
+holidays
+pytest
+lifelines
