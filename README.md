@@ -1,4 +1,4 @@
-
+```bash
 loan-approval-time-prediction/
 │
 ├── data/
@@ -28,3 +28,4 @@ loan-approval-time-prediction/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
